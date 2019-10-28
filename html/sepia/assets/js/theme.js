@@ -3,7 +3,7 @@
 * 
 * Template:		Fotografia
 * Author:		Tuw3bsite
-* URL:			http://themetorium.net
+* URL:			http://#
 *
 ================================================================= */
 
